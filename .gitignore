@@ -1,0 +1,30 @@
+# Node / Next.js
+node_modules/
+.next/
+npm-debug.log
+yarn-error.log
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Backend virtual env (redundant but safe)
+backend/venv/
+
+# Logs
+logs/
+*.log
