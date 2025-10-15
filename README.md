@@ -1,10 +1,4 @@
-Absolutely! Here’s a **ready-to-use `README.md`** tailored for your `Job_board` project with `backend` (FastAPI) and `frontend` (Next.js). It’s clear, beginner-friendly, and tells your friends exactly how to set up and run the project.
 
-You can place this at the **root of your project**, i.e., `Job_board/README.md`.
-
----
-
-```markdown
 # Job_board
 
 ## Overview
